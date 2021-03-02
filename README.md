@@ -165,13 +165,13 @@ I performed an **mget** command to get all the files onto my computer.
 
 Here are the files I got:
 	
-[aa.jpeg](./aa.jpg)
+![aa.jpeg](./aa.jpg)
 
-[Leave_me_alone.png](./Leave_me_alone.png)
+![Leave_me_alone.png](./Leave_me_alone.png)
 
-[Lianyu.png](./Lianyu.png)
+![Lianyu.png](./Lianyu.png)
 
-["Queen's_Gambit.png"](./"Queen's_Gambit.png")
+!["Queen's_Gambit.png"](./"Queen's_Gambit.png")
 
 I also went back a directory, and performed an **ls** command, and got the following:
 	
